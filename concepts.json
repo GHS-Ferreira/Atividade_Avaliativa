@@ -1,0 +1,54 @@
+{
+    "concepts": [
+      {
+        "id": 1,
+        "title": "Variáveis",
+        "description": "Variáveis são usadas para armazenar dados. Em JavaScript, você pode declarar variáveis usando 'var', 'let' ou 'const'."
+      },
+      {
+        "id": 2,
+        "title": "Funções",
+        "description": "Funções são blocos de código que podem ser chamados e executados. Elas podem receber parâmetros e retornar valores."
+      },
+      {
+        "id": 3,
+        "title": "Arrays",
+        "description": "Arrays são usados para armazenar múltiplos valores em uma única variável. Em JavaScript, os arrays podem conter diferentes tipos de dados."
+      },
+      {
+        "id": 4,
+        "title": "Objetos",
+        "description": "Objetos são coleções de propriedades, onde cada propriedade tem um nome e um valor associado. Eles são fundamentais em JavaScript."
+      },
+      {
+        "id": 5,
+        "title": "Condições",
+        "description": "Condições são usadas para executar diferentes ações com base em diferentes condições. Em JavaScript, usamos 'if', 'else if' e 'else' para isso."
+      },
+      {
+        "id": 6,
+        "title": "Loops",
+        "description": "Loops são usados para executar um bloco de código várias vezes. Em JavaScript, os loops mais comuns são 'for', 'while' e 'do...while'."
+      },
+      {
+        "id": 7,
+        "title": "Eventos",
+        "description": "Eventos são ações que ocorrem no navegador que o JavaScript pode usar para executar código quando algo acontece, como clique de botão, envio de formulário, etc."
+      },
+      {
+        "id": 8,
+        "title": "DOM",
+        "description": "O DOM (Document Object Model) representa a estrutura de um documento HTML como uma árvore de objetos. Ele permite que o JavaScript manipule o conteúdo, estrutura e estilo de uma página web."
+      },
+      {
+        "id": 9,
+        "title": "Ajax",
+        "description": "Ajax (Asynchronous JavaScript and XML) é uma técnica de desenvolvimento web que permite que o JavaScript faça requisições HTTP assíncronas ao servidor, permitindo atualizações dinâmicas do conteúdo sem recarregar a página inteira."
+      },
+      {
+        "id": 10,
+        "title": "Promises",
+        "description": "Promises são objetos que representam o resultado de uma operação assíncrona. Elas são usadas para lidar com operações assíncronas de forma mais limpa e fácil de entender."
+      }
+    ]
+  }

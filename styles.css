@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgb(255, 222, 74), rgb(0, 0, 0));
+    position: relative;
+    height: 100vh;
+}
+
+.header {
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(44, 44, 44));
+    text-align: center;
+    padding: 10px 0;
+}
+
+#titulo {
+    font-size: 24px;
+    color: #ffffff; /* Branco */
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    height: 60vh;
+    max-height: 290px;
+    padding: 20px;
+    background-color: #f9f9f9; /* Marrom */
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container h1 {
+    text-align: center; /* Centralizando apenas o h1 */
+    margin: 20; /* Centralizando horizontalmente */
+}
+
+h1, h2 {
+    color: #000000; /* Vermelho */
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #000000; /* Preto */
+    border-radius: 5px;
+}
+
+#conceptDetails {
+    border-top: 2px solid #000000; /* Preto */
+    padding-top: 20px;
+}
